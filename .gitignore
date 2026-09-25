@@ -1,0 +1,137 @@
+# Unity-generated folders
+2
+[Ll]ibrary/
+3
+[Tt]emp/
+4
+[Oo]bj/
+5
+[Bb]uild/
+6
+[Bb]uilds/
+7
+[Ll]ogs/
+8
+[Mm]emoryCaptures/
+9
+UserSettings/
+10
+ 
+11
+# Addressables
+12
+ServerData/
+13
+ 
+14
+# Visual Studio / Rider
+15
+.vs/
+16
+.idea/
+17
+.gradle/
+18
+ 
+19
+# Auto-generated solution/project files
+20
+*.csproj
+21
+*.unityproj
+22
+*.sln
+23
+*.suo
+24
+*.tmp
+25
+*.user
+26
+*.userprefs
+27
+*.pidb
+28
+*.booproj
+29
+*.svd
+30
+*.pdb
+31
+*.mdb
+32
+*.opendb
+33
+*.VC.db
+34
+ 
+35
+# Unity cache
+36
+.DS_Store
+37
+Thumbs.db
+38
+ 
+39
+# Crash reports
+40
+sysinfo.txt
+41
+ 
+42
+# Generated files
+43
+*.apk
+44
+*.aab
+45
+*.unitypackage
+46
+ 
+47
+# JetBrains Rider
+48
+.idea/
+49
+ 
+50
+# VS Code
+51
+.vscode/
+52
+ 
+53
+# Android
+54
+.gradle/
+55
+local.properties
+56
+ 
+57
+# Mac
+58
+*.app
+59
+ 
+60
+# Linux
+61
+*.x86
+62
+*.x86_64
+63
+ 
+64
+# Windows builds
+65
+*.exe
+66
+*.dll
+67
+ 
+68
+# WebGL builds
+69
+*.wasm
